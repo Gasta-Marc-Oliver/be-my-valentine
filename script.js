@@ -4,7 +4,7 @@ function goToNextPage() {
 
 function handleYes() {
     const card = document.querySelector('.card');
-    card.innerHTML = '<h1>Thank you, Ms. Angelica.</h1>';
+    card.innerHTML = '<h1>Thank you, my Fiance.</h1>';
 }
 
 function handleNo() {
